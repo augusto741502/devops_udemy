@@ -27,5 +27,4 @@ public class InvoiceRequest {
    private double amount; 
    
 
-   
 }
