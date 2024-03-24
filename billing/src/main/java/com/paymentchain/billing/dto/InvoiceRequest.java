@@ -26,6 +26,9 @@ public class InvoiceRequest {
       @ApiModelProperty(name = "amount", required = true,example = "3659.23")
    private double amount; 
 
+
+
+
    
    
 }
